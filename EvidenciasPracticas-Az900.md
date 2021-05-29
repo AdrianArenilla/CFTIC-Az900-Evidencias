@@ -190,46 +190,235 @@
 ![10h-VMPowerShell](Evidencias/10h-VMPowerShell.png)
 
 
+
+
 # 11 - Create a VM with the CLI
 
 ![](Evidencias/11a-VMCLI.png)
+
 ![](Evidencias/11b-VMCLI.png)
+
 ![](Evidencias/11c-VMCLI.png)
+
 ![](Evidencias/11d-VMCLI.png)
+
 ![](Evidencias/11e-VMCLI.png)
+
 ![](Evidencias/11f-VMCLI.png)
+
 ![](Evidencias/11g-VMCLI.png)
+
 
 
 
 # 12 - Implement Azure Key Vault
 
+![](Evidencias/12a-KeyVault.png)
+
+![](Evidencias/12b-KeyVault.png)
+
+![](Evidencias/12c-KeyVault.png)
+
+![](Evidencias/12d-KeyVault.png)
+
+![](Evidencias/12e-KeyVault.png)
+
+![](Evidencias/12f-KeyVault.png)
+
+![](Evidencias/12g-KeyVault.png)
+
+
+
 
 # 13 - Secure network traffic
+
+![](Evidencias/13a-NGS.png)
+
+![](Evidencias/13b-NGS.png)
+
+![](Evidencias/13c-NGS.png)
+
+![](Evidencias/13d-NGS.png)
+
+![](Evidencias/13e-NGS.png)
+
+![](Evidencias/13f-NGS.png)
+
+![](Evidencias/13g-NGS.png)
+
+![](Evidencias/13h-NGS.png)
+
+![](Evidencias/13i-NGS.png)
+
+![](Evidencias/13j-NGS.png)
+
+![](Evidencias/13k-NGS.png)
+
+![](Evidencias/13l-NGS.png)
+
+
 
 
 # 14 - Manage access with RBAC
 
+![](Evidencias/14a-RBAC.png)
+
+![](Evidencias/14b-RBAC.png)
+
+![](Evidencias/14c-RBAC.png)
+
+![](Evidencias/14d-RBAC.png)
+
+![](Evidencias/14e-RBAC.png)
+
+
+
 
 # 15 - Manage resource locks
+
+![](Evidencias/15a-ResourceLock.png)
+
+![](Evidencias/15b-ResourceLock.png)
+
+![](Evidencias/15c-ResourceLock.png)
+
+![](Evidencias/15d-ResourceLock.png)
+
+![](Evidencias/15e-ResourceLock.png)
+
+![](Evidencias/15f-ResourceLock.png)
+
+![](Evidencias/15g-ResourceLock.png)
+
+![](Evidencias/15h-ResourceLock.png)
+
+![](Evidencias/15i-ResourceLock.png)
+
+![](Evidencias/15j-ResourceLock.png)
+
+
 
 
 # 16 - Implement resource tagging
 
+![](Evidencias/16a-Tagging.png)
+
+![](Evidencias/16b-Tagging.png)
+
+![](Evidencias/16c-Tagging.png)
+
+![](Evidencias/16d-Tagging.png)
+
+![](Evidencias/16e-Tagging.png)
+
+![](Evidencias/16f-Tagging.png)
+
+![](Evidencias/16g-Tagging.png)
+
+![](Evidencias/16h-Tagging.png)
+
+![](Evidencias/16i-Tagging.png)
+
+![](Evidencias/16j-Tagging.png)
+
+![](Evidencias/16k-Tagging.png)
+
+![](Evidencias/16l-Tagging.png)
+
+![](Evidencias/16m-Tagging.png)
+
+
+
 
 # 17 - Create an Azure Policy
+
+![](Evidencias/17a-AzurePolicy.png)
+
+![](Evidencias/17b-AzurePolicy.png)
+
+![](Evidencias/17c-AzurePolicy.png)
+
+![](Evidencias/17d-AzurePolicy.png)
+
+![](Evidencias/17e-AzurePolicy.png)
+
+![](Evidencias/17f-AzurePolicy.png)
+
+![](Evidencias/17g-AzurePolicy.png)
+
+![](Evidencias/17h-AzurePolicy.png)
+
+
 
 
 # 18 - Explore the Trust Center
 
+![](Evidencias/18a-TrustCenter.png)
+
+![](Evidencias/18b-TrustCenter.png)
+
+![](Evidencias/18c-TrustCenter.png)
+
+![](Evidencias/18d-TrustCenter.png)
+
+
+
 
 # 19 - Use the Pricing Calculator
+
+![](Evidencias/19a-AzurePricingCalculator.png)
+
+![](Evidencias/19b-AzurePricingCalculator.png)
+
+![](Evidencias/19c-AzurePricingCalculator.png)
+
+![](Evidencias/19d-AzurePricingCalculator.png)
+
+![](Evidencias/19e-AzurePricingCalculator.png)
+
+![](Evidencias/19f-AzurePricingCalculator.png)
+
+
 
 
 # 20 - Use the Azure TCO Calculator
 
+![](Evidencias/20a-TCOCalculator.png)
+
+![](Evidencias/20b-TCOCalculator.png)
+
+![](Evidencias/20c-TCOCalculator.png)
+
+![](Evidencias/20d-TCOCalculator.png)
+
+![](Evidencias/20e-TCOCalculator.png)
+
+![](Evidencias/20f-TCOCalculator.png)
+
+
+
 
 # 21 - Calculate Composite SLAs
 
+![](Evidencias/21a-CompositeSLA.png)
+
+![](Evidencias/21b-CompositeSLA.png)
+
+![](Evidencias/21c-CompositeSLA.png)
+
+![](Evidencias/21d-CompositeSLA.png)
+
+
+
 
 # 22 - Open a Support Request
+
+![](Evidencias/22a-SupportRequest.png)
+
+![](Evidencias/22b-SupportRequest.png)
+
+![](Evidencias/22c-SupportRequest.png)
+
+![](Evidencias/22d-SupportRequest.png)
+
+![](Evidencias/22e-SupportRequest.png)
