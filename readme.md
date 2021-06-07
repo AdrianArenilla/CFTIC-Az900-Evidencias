@@ -8,9 +8,9 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Creación de una máquina virtual en el portal de Azure.](./01.-Create_Virtual_Machine/01_Create_Virtual_Machine_Portal.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/01-Create a virtual machine.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/01-Create_a_virtual_machine.md)
 
-[English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/01-Create a virtual machine.md)
+[English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/01-Create_a_virtual_machine.md)
 
 ### 2.- Crear una App Web.
 
