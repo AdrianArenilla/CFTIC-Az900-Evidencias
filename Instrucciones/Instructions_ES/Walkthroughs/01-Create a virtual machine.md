@@ -1,15 +1,13 @@
----
-wts:
-    title: '01 - Crear una máquina virtual en el portal (10 minutos)'
-    module: 'Módulo 2: Servicios principales de Azure (Cargas de trabajo)'
----
+## module: 'Módulo 2: Servicios principales de Azure (Cargas de trabajo)'
+
+
 # 01 - Crear una máquina virtual en el portal
 
 En este tutorial crearemos una máquina virtual en Azure Portal, nos conectaremos a dicha máquina virtual, instalaremos la función del servidor web y la probaremos. 
 
 **Nota**: Tómese el tiempo durante este tutorial para hacer clic y leer los iconos informativos. 
 
-# Tarea 1: Crear una máquina virtual (10 minutos)
+# Tarea 1: Crear una máquina virtual (10 minutos)
 
 En esta tarea, crearemos una máquina virtual Windows Server 2019 Datacenter - Gen1. 
 
@@ -25,7 +23,7 @@ En esta tarea, crearemos una máquina virtual Windows Server 2019 Datacenter - G
     | Grupo de recursos | **myRGVM** (crear nueva) |
     | Nombre de la máquina virtual | **myVm** |
     | Ubicación | **Este de EE. UU.**|
-    | Imagen | **Windows Server 2019 Datacenter - Gen 1**|
+    | Imagen | **Windows Server 2019 Datacenter - Gen 1**|
     | Tamaño | Estándar D2s, v3|
     | Nombre de usuario de la cuenta de administrador | **azureuser** |
     | Contraseña de cuenta de administrador | **Pa$$w0rd1234**|
@@ -56,7 +54,7 @@ En esta tarea, crearemos una máquina virtual Windows Server 2019 Datacenter - G
 
 * **Compruebe que los puertos 80 y 3389 están abiertos**
 
-# Tarea 2: Conectarse a la máquina virtual
+# Tarea 2: Conectarse a la máquina virtual
 
 En esta tarea nos conectaremos a nuestra nueva máquina virtual usando el RDP. 
 
@@ -86,7 +84,7 @@ En esta tarea nos conectaremos a nuestra nueva máquina virtual usando el RDP.
 
 ¡Enhorabuena! Ha implementado una máquina virtual de Windows Server en Azure y se ha conectado a ella
 
-# Tarea 3: Instalar la función del servidor web y probarla
+# Tarea 3: Instalar la función del servidor web y probarla
 
 En esta tarea, instale el rol Servidor web en el servidor y asegúrese de que se pueda mostrar la página principal predeterminada de IIS.
 
