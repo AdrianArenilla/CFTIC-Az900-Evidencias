@@ -16,7 +16,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Creación de una App Web.](./Ejercicios/02.-Create_Web_App/02_Create_Web_App.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/02-Create a Web App.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/02-Create_a_Web_App.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/02-Create_a_Web_App.md)
 
@@ -24,7 +24,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Desplegar instancias de un contenedor en Azure.](./Ejercicios/03.-Azure_Container_Instances/03_Azure_Container_Instances.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/03-Deploy Azure Container Instances.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/03-Deploy_Azure_Container_Instances.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/03-Deploy_Azure_Container_Instances.md)
 
@@ -32,7 +32,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Creación de una red virtual.](./Ejercicios/04.-Create_Virtual_Network/04_Create_Virtual_Network.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/04-Create a virtual network.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/04-Create_a_virtual_network.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/04-Create_a_virtual_network.md)
 
@@ -40,7 +40,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Creación de almacenamiento de blobs.](./Ejercicios/05.-Create_Blob_Storage/05_Create_Blob_Storage.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/05-Create Blob storage.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/05-Create_Blob_storage.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/05-Create_Blob_storage.md)
 
@@ -48,7 +48,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Creación de una BBDD en SQL.](./Ejercicios/06.-Create_SQL_Database/06_Create_SQL_Database.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/06-Create a SQL database.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/06-Create_a_SQL_database.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/06-Create_a_SQL_database.md)
 
@@ -56,7 +56,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Implementación de Azure IoT Hub.](./Ejercicios/07.-Azure_IoT_Hub/07_Azure_IoT_Hub.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/07-Implement the Azure IoT Hub.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/07-Implement_the_Azure_IoT_Hub.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/07-Implement_the_Azure_IoT_Hub.md)
 
@@ -64,7 +64,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Implementación de una función en Azure.](./Ejercicios/08.-Azure_Functions/08_Azure_Functions.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/08-Implement Azure Functions.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/08-Implement_Azure_Functions.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/08-Implement_Azure_Functions.md)
 
@@ -72,7 +72,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Creación de máquina virtual mediante una plantilla.](./Ejercicios/09.-Virtual_Machine_Template/09_Virtual_Machine_Template.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/09-Create a VM with a Template.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/09-Create_a_VM_with_a_Template.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/09-Create_a_VM_with_a_Template.md)
 
@@ -80,7 +80,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Creación de una máquina virtual mediante PowerShell.](./Ejercicios/10.-Virtual_Machine_PowerShell/10_Virtual_Machine_PowerShell.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/10-Create a VM with PowerShell.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/10-Create_a_VM_with_PowerShell.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/10-Create_a_VM_with_PowerShell.md)
 
@@ -88,7 +88,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Creación de una máquina virtual mediante la línea de comandos.](./Ejercicios/11.-Virtual_Machine_CLI/11_Virtual_Machine_CLI.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/11-Create a VM with the CLI.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/11-Create_a_VM_with_the_CLI.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/11-Create_a_VM_with_the_CLI.md)
 
@@ -96,7 +96,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Implementación de Azure Key Vault.](./Ejercicios/12.-Azure_Key_Vault/12_Azure_Key_Vault.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/12-Implement Azure Key Vault.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/12-Implement_Azure_Key_Vault.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/12-Implement_Azure_Key_Vault.md)
 
@@ -104,7 +104,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Creación de una red de tráfico seguro.](./Ejercicios/13.-Secure_Network_Traffic/13_Secure_Network_Traffic.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/13-Secure network traffic.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/13-Secure_network_traffic.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/13-Secure_network_traffic.md)
 
@@ -112,7 +112,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Gestión de accesos mediante el control de roles.](./Ejercicios/14.-Access_RBAC/14_Access_RBAC.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/14-Manage access with RBAC.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/14-Manage_access_with_RBAC.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/14-Manage_access_with_RBAC.md)
 
@@ -120,7 +120,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Gestión para el bloqueo de acceso a los recursos.](./Ejercicios/15.-Resource_Locks/15_Resource_Locks.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/15-Manage resource locks.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/15-Manage_resource_locks.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/15-Manage_resource_locks.md)
 
@@ -128,7 +128,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Implementación de etiquetas a los recursos.](./Ejercicios/16.-Resource_Tagging/16_Resource_Tagging.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/16-Implement resource tagging.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/16-Implement_resource_tagging.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/16-Implement_resource_tagging.md)
 
@@ -136,7 +136,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Creación de políticas en Azure.](./Ejercicios/17.-Azure_Policy/17_Azure_Policy.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/17-Create an Azure Policy.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/17-Create_an_Azure_Policy.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/17-Create_an_Azure_Policy.md)
 
@@ -144,7 +144,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Exploración del centro de confianza.](./Ejercicios/18.-Trust_Center/18_Trust_Center.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/18-Explore the Trust Center.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/18-Explore_the_Trust_Center.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/18-Explore_the_Trust_Center.md)
 
@@ -152,7 +152,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Calculadora de precios.](./Ejercicios/19.-Pricing_Calculator/19_Pricing_Calculator.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/19-Use the Azure Pricing Calculator.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/19-Use_the_Azure_Pricing_Calculator.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/19-Use_the_Azure_Pricing_Calculator.md)
 
@@ -160,7 +160,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Calculadora del costo total de propiedad.](./Ejercicios/20.-TCO_Calculator/20_TCO_Calculator.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/20-Use the Azure TCO Calculator.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/20-Use_the_Azure_TCO_Calculator.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/20-Use_the_Azure_TCO_Calculator.md)
 
@@ -168,7 +168,7 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Revisión de los acuerdos de nivel de servicio.](./Ejercicios/21.-Composite_SLA/21_Composite_SLA.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/21-Calculate Composite SLAs.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/21-Calculate_Composite_SLAs.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/21-Calculate_Composite_SLAs.md)
 
@@ -176,6 +176,6 @@ En éste capitulo realizaremos la creación de diferentes recursos dentro del po
 
 [Solicitud de ayuda a través del soporte de Azure.](./Ejercicios/22.-Support_Request/22_Support_Request.md)
 
-[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/22-Open a Support Request.md)
+[Instrucciones en castellano.](./Instrucciones/Instructions_ES/Walkthroughs/22-Open_a_Support_Request.md)
 
 [English instructions.](./Instrucciones/Instructions_EN/Walkthroughs/22-Open_a_Support_Request.md)
