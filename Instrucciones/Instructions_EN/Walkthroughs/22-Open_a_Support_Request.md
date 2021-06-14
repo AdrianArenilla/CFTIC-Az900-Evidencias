@@ -59,4 +59,4 @@ Congratulations! You have viewed the available support plan options and practice
 **Note**: Click for more information about [**creating an Azure support ticket**](https://azure.microsoft.com/en-us/support/create-ticket).
 
 
-### [<-- Back to Readme](../../readme.md)
+### [<-- Back to Readme](../../../readme.md)

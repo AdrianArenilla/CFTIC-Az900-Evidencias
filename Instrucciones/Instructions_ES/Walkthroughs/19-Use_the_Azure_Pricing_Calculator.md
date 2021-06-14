@@ -113,4 +113,4 @@ En esta tarea, revisaremos los resultados de la Calculadora de precios de Azure.
 ¡Enhorabuena! Descargó un presupuesto de la Calculadora de precios de Azure.
 
 
-### [<-- Volver al Readme](../../readme.md)
+### [<-- Volver al Readme](../../../readme.md)

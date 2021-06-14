@@ -59,4 +59,4 @@ En este tutorial veremos las opciones de planes de soporte disponibles y luego p
 **Nota**: Haga clic para obtener más información sobre la [**creación de un vale de soporte de Azure**](https://azure.microsoft.com/es-es/support/create-ticket).
 
 
-### [<-- Volver al Readme](../../readme.md)
+### [<-- Volver al Readme](../../../readme.md)

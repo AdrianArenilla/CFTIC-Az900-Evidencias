@@ -43,4 +43,4 @@ Nuestra aplicación de ejemplo consta de estos servicios de Azure. No entraremos
 ¡Enhorabuena! Ha determinado el tiempo de actividad basado en el Acuerdo de nivel de servicio (SLA) para cada uno de los servicios en nuestra aplicación de muestra y luego ha calculado la disponibilidad esperada compuesta basada en el Acuerdo de nivel de servicio para la aplicación.
 
 
-### [<-- Volver al Readme](../../readme.md)
+### [<-- Volver al Readme](../../../readme.md)

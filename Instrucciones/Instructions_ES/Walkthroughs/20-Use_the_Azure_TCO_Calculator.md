@@ -100,4 +100,4 @@ En esta tarea revisaremos las recomendaciones de ahorro de costes y descargaremo
 ¡Enhorabuena! Ha utilizado la Calculadora de TCO para generar un informe de comparación de costes para un entorno local.
 
 
-### [<-- Volver al Readme](../../readme.md)
+### [<-- Volver al Readme](../../../readme.md)
