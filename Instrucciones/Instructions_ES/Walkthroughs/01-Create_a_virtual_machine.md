@@ -116,4 +116,4 @@ En esta tarea, instale el rol Servidor web en el servidor y asegúrese de que se
 **Nota**: Para evitar costes adicionales, puede quitar este grupo de recursos. Busque grupos de recursos, haga clic en su grupo de recursos y, a continuación, haga clic en **Eliminar grupo de recursos**. Compruebe el nombre del grupo de recursos y luego haga clic en **Eliminar**. Supervise las **Notificaciones** para comprobar que la eliminación se haya completado correctamente. 
 
 
-### [<-- Volver al Readme](../../Readme.md)
+### [<-- Volver al Readme](Az_900/Readme.md)
