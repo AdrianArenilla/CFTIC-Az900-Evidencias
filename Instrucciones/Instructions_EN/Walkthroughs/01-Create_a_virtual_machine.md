@@ -118,4 +118,4 @@ Congratulations! You have created a web server that is accessible via its public
 **Note**: To avoid additional costs, you can remove this resource group. Search for resource groups, click your resource group, and then click **Delete resource group**. Verify the name of the resource group and then click **Delete**. Monitor the **Notifications** to see verify that the deletion completed successfully. 
 
 
-### [<-- Back to Readme](../../Readme.md)
+### [<-- Back to Readme](../../../readme.md)

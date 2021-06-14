@@ -21,12 +21,3 @@
 ![](Evidencias/01i-CreateVM.png)
 
 ### [<-- Volver al Readme](../../readme.md)
-[..\..\readme.md](../../readme.md)
-
-[..\..\readme.md](..\..\readme.md)
-
-
-
-
-
-

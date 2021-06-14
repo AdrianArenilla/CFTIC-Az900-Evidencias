@@ -23,6 +23,6 @@
 ![](Evidencias/15j-ResourceLock.png)
 
 
-### [<-- Volver al Readme](../../Readme.md)
+### [<-- Volver al Readme](../../readme.md)
 
 

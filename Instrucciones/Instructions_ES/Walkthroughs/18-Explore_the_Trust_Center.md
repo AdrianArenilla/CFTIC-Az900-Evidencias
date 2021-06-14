@@ -46,4 +46,4 @@ En este tutorial accederemos al Centro de confianza, al Portal de confianza de s
 ¡Enhorabuena! En este tutorial, accedió al Centro de confianza, al Portal de confianza de servicios (STP) y al Administrador de cumplimiento.
 
 
-### [<-- Volver al Readme](../../Readme.md)
+### [<-- Volver al Readme](../../readme.md)

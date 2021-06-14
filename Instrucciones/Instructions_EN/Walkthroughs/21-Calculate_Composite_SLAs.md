@@ -43,4 +43,4 @@ Our example application consists of these Azure services. We will not go in to d
 Congratulations! You have determined the SLA-based uptime for each of the services in our sample application and then calculated the composite SLA-based expected availability for the application.
 
 
-### [<-- Back to Readme](../../Readme.md)
+### [<-- Back to Readme](../../readme.md)

@@ -100,4 +100,4 @@ In this task, we will review cost saving recommendations and download a report.
 Congratulations! You have used the TCO Calculator to generate a cost comparison report for an on-premises environment.
 
 
-### [<-- Back to Readme](../../Readme.md)
+### [<-- Back to Readme](../../readme.md)

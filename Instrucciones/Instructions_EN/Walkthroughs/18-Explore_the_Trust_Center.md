@@ -46,4 +46,4 @@ In this walkthrough, we will access the Trust Center, Service Trust Portal (STP)
 Congratulations! In this walkthrough, you accessed the Trust Center, Service Trust Portal (STP), and Compliance Manager.
 
 
-### [<-- Back to Readme](../../Readme.md)
+### [<-- Back to Readme](../../readme.md)

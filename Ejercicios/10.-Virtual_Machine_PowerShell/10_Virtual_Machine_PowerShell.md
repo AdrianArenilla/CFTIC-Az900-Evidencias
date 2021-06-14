@@ -19,6 +19,6 @@
 ![](Evidencias/10h-VMPowerShell.png)
 
 
-### [<-- Volver al Readme](../../Readme.md)
+### [<-- Volver al Readme](../../readme.md)
 
 
