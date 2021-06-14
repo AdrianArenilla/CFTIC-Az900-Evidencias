@@ -116,3 +116,6 @@ In this task, we will review Azure Advisor recommendations for our virtual machi
 Congratulations! You have configured Cloud Shell, created a virtual machine using PowerShell, practiced with PowerShell commands, and viewed Advisor recommendations.
 
 **Note**: To avoid additional costs, you can remove this resource group. Search for resource groups, click your resource group, and then click **Delete resource group**. Verify the name of the resource group and then click **Delete**. Monitor the **Notifications** to see how the delete is proceeding.
+
+
+### [<-- Back to Readme](../../Readme.md)

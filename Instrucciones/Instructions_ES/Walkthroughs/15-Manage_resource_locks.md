@@ -95,3 +95,6 @@ En esta tarea quitaremos el bloqueo del recurso y lo probaremos.
 ¡Enhorabuena! Creó un grupo de recursos, agregó un bloqueo al grupo de recursos y probó su eliminación, probó la eliminación de un recurso en el grupo de recursos y quitó el bloqueo de un recurso. 
 
 **Nota**: Para evitar costes adicionales, puede quitar este grupo de recursos. Busque grupos de recursos, haga clic en su grupo de recursos y, a continuación, haga clic en **Eliminar grupo de recursos**. Compruebe el nombre del grupo de recursos y luego haga clic en **Eliminar**. Supervise las **Notificaciones** para ver cómo se realiza la eliminación.
+
+
+### [<-- Volver al Readme](../../Readme.md)

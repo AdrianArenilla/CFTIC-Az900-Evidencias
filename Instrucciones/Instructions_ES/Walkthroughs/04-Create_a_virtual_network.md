@@ -131,3 +131,6 @@ En esta tarea, permitiremos conexiones ICMP y probaremos si las máquinas virtua
 ¡Enhorabuena! Ha configurado dos máquinas virtuales y las ha implementado en una red virtual. También ha configurado el firewall de Windows para que una de las máquinas virtuales permita las solicitudes de ping entrantes. 
 
 **Nota**: Para evitar costes adicionales, puede quitar este grupo de recursos. Busque grupos de recursos, haga clic en su grupo de recursos y, a continuación, haga clic en **Eliminar grupo de recursos**. Compruebe el nombre del grupo de recursos y luego haga clic en **Eliminar**. Supervise las **Notificaciones** para ver cómo se realiza la eliminación.
+
+
+### [<-- Volver al Readme](../../Readme.md)

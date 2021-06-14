@@ -57,3 +57,6 @@ In this walkthrough, we will view available support plan options and then practi
 Congratulations! You have viewed the available support plan options and practiced creating and monitoring a new support request.
 
 **Note**: Click for more information about [**creating an Azure support ticket**](https://azure.microsoft.com/en-us/support/create-ticket).
+
+
+### [<-- Back to Readme](../../Readme.md)

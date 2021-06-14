@@ -66,3 +66,5 @@ En esta tarea probaremos la aplicación web.
 
 **Nota**: Para evitar costes adicionales, puede quitar este grupo de recursos. Busque grupos de recursos, haga clic en su grupo de recursos y, a continuación, haga clic en **Eliminar grupo de recursos**. Compruebe el nombre del grupo de recursos y luego haga clic en **Eliminar**. Supervise las **Notificaciones** para ver cómo se realiza la eliminación.
 
+
+### [<-- Volver al Readme](../../Readme.md)

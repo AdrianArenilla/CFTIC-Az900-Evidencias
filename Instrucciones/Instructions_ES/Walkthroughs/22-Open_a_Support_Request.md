@@ -57,3 +57,6 @@ En este tutorial veremos las opciones de planes de soporte disponibles y luego p
 ¡Enhorabuena! Ha visto las opciones de plan de soporte disponibles y ha practicado la creación y la supervisión de una nueva solicitud de soporte técnico.
 
 **Nota**: Haga clic para obtener más información sobre la [**creación de un vale de soporte de Azure**](https://azure.microsoft.com/es-es/support/create-ticket).
+
+
+### [<-- Volver al Readme](../../Readme.md)
