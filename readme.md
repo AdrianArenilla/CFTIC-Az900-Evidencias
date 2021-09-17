@@ -1,6 +1,6 @@
-# MÓDULO AZ-900
+# Student: Adrián Arenilla Seco
+## Microsoft Labs AZ-900 - Microsoft Azure Fundamentals
 
-## Alumno: Adrián Arenilla Seco
 
 En éste capitulo realizaremos la creación de diferentes recursos dentro del portal de Azure, la utilización de la calculadora de recursos, que nos servirá para calcular el costo de los productos en la nube del propio Microsoft Azure, exploraremos el centro de confianza y aprenderemos a abrir una incidencia al soporte en caso de necesitar ayuda.
 
